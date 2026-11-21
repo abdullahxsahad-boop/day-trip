@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahxsahad-boop.github.io/day-trip/sitemap.xml
