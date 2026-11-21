@@ -107,6 +107,7 @@ day-trip/
 │       ├── cafe-dining.jpg      # MAT SALLEH Cafe dining area
 │       ├── cafe-selfie.jpg      # Cafe signage photograph
 │       ├── cafe-selfie-2.jpg    # Cafe viewpoint photograph
+│       ├── destination-03-batuka.jpg # Batuka natural stream & rocky riverbank
 │       ├── waterfall-back.jpg   # Namtok Sap Udom cascade rear angle
 │       ├── waterfall-portrait.jpg# Namtok Sap Udom stream cascade
 │       ├── cave-stream.jpg      # Tham Krachaeng subterranean stream passage
