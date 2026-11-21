@@ -38,13 +38,14 @@ day-trip/
 ├── sitemap.xml                  # XML sitemap for search engine crawlers
 │
 ├── assets/
-│   └── images/                  # 11 production-ready optimized travel photographs
+│   └── images/                  # 12 production-ready optimized travel photographs
 │       ├── author.jpg           # Project Creator portrait (Abdullah Sahad)
 │       ├── bang-lang-dam.jpg    # Bang Lang Dam lake & reservoir panorama
 │       ├── cafe-view.jpg        # MAT SALLEH Cafe terrace morning overlook
 │       ├── cafe-dining.jpg      # MAT SALLEH Cafe dining area
 │       ├── cafe-selfie.jpg      # Cafe signage photo
 │       ├── cafe-selfie-2.jpg    # Cafe viewpoint photo
+│       ├── destination-03-batuka.jpg # Batuka natural stream & rocky riverbank
 │       ├── waterfall-back.jpg   # Namtok Sap Udom rear angle
 │       ├── waterfall-portrait.jpg# Namtok Sap Udom waterfall stream
 │       ├── cave-stream.jpg      # Tham Krachaeng subterranean stream
@@ -107,7 +108,7 @@ day-trip/
 5. **Section 05: Destinations Showcase (`#destinations`)**
    - 5 dedicated destination articles (MAT SALLEH Cafe, Namtok Sap Udom, Batuka Stream, Tham Krachaeng, Bang Lang Dam).
    - Featured panoramic cards and 2-column grid.
-   - Editorial honesty: Batuka Stream explicitly tags `🎬 ชมภาพในวิดีโอทริป` to adhere strictly to the rule against using unrelated stock photos.
+   - Destination 03 (Batuka Stream) features the authentic photograph (`destination-03-batuka.jpg`) showing the natural flowing stream, rocky riverbank, and tropical palm greenery.
    - Google Maps direct navigation button on each card.
 
 6. **Section 06: Photo Gallery & Lightbox (`#gallery`)**
