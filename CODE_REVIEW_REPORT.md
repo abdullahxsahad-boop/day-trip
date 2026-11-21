@@ -38,7 +38,7 @@ day-trip/
 ├── sitemap.xml                  # XML sitemap for search engines
 │
 ├── assets/
-│   └── images/                  # 11 production assets (3.55 MB total)
+│   └── images/                  # 12 production assets (3.60 MB total)
 │       ├── author.jpg (6.7 KB)
 │       ├── bang-lang-dam.jpg (421.7 KB)
 │       ├── cafe-dining.jpg (366.1 KB)
@@ -47,6 +47,7 @@ day-trip/
 │       ├── cafe-view.jpg (186.5 KB)
 │       ├── cave-interior.jpg (294.8 KB)
 │       ├── cave-stream.jpg (243.4 KB)
+│       ├── destination-03-batuka.jpg (50.5 KB)
 │       ├── favicon.png (5.2 KB)
 │       ├── waterfall-back.jpg (682.7 KB)
 │       └── waterfall-portrait.jpg (678.6 KB)
