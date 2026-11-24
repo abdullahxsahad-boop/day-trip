@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5 {
   color: var(--white);
   line-height: 1.05;
   margin-bottom: var(--space-md);
-  letter-spacing: -1px;
+  letter-spacing: 0;
 }
 
 .hero__subtitle {
@@ -424,6 +424,45 @@ h1, h2, h3, h4, h5 {
   gap: var(--space-md);
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.hero__facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 680px;
+  margin: var(--space-lg) auto 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.24);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.24);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.hero__fact {
+  min-width: 0;
+  padding: 14px 20px;
+  text-align: center;
+}
+
+.hero__fact + .hero__fact {
+  border-left: 1px solid rgba(255, 255, 255, 0.24);
+}
+
+.hero__fact strong,
+.hero__fact span {
+  display: block;
+}
+
+.hero__fact strong {
+  color: var(--white);
+  font-family: var(--font-en);
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.hero__fact span {
+  margin-top: 2px;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: var(--text-caption);
 }
 
 /* --- Buttons — Minimum Touch Target 44x44px --- */

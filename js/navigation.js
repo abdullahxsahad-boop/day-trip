@@ -55,6 +55,8 @@
     }
   }, { passive: true });
 
+  window.addEventListener('orientationchange', closeMenu, { passive: true });
+
   // Close menu on link click
   navLinks.forEach(function (link) {
     link.addEventListener('click', function () {
